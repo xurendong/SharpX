@@ -1,2 +1,0 @@
-# sharpx
-basic library
